@@ -80,7 +80,7 @@ for i in range(0,26):
     counter_i == 1
     
 
-
+print("Hello Conor")
 total = len(string)
 
 prob_a = str.count(a)/ len(string)
